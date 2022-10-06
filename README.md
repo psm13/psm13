@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @psm13
 - 👀 I’m interested in data science and space
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on isro and drdo
+- 💞️ I’m looking to collaborate on isro and drdo projects
 - 📫 How to reach me....dm me
 
 <!---
